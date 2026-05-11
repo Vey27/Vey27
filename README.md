@@ -32,14 +32,6 @@ The focus is simple: build products that are useful, private, organized, and eas
     <img src="https://img.shields.io/badge/WorkShield-Take%20Survey-10B981?style=for-the-badge&labelColor=10B981&color=10B981" alt="Take the WorkShield survey" />
   </a>
 </p>
-## Current focus
-
-- Preparing **ThriveMap** for launch
-- Building the **LumoBridge** public website
-- Continuing product research for **ThrivePath**
-- Preparing **WorkShield** for private beta
-- Developing the **LumoBridge dashboard** for product and business visibility
-- Building structured tools for reflection, growth, documentation, analytics, and AI-assisted workflows
 
 ---
 
