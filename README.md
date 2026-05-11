@@ -22,11 +22,7 @@ The focus is simple: build products that are useful, private, organized, and eas
 ## A growing product ecosystem
 
 <p align="center">
-  <em>LumoBridge builds tools for reflection, growth, documentation, and better decisions across work and life.</em>
-</p>
-
-<p align="center">
-  <img src="./LumoBridge_product_ecosystem.png" alt="LumoBridge product ecosystem showing ThriveMap, ThrivePath, and WorkShield" width="900" />
+  <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="900" />
 </p>
 
 ---
