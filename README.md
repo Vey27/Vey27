@@ -21,45 +21,30 @@ The focus is simple: build products that are useful, private, organized, and eas
 
 ## A growing product ecosystem
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>ThriveMap</h3>
-      <p>A guided reflection app built around a 70-day practice.</p>
-      <p>Helps users build clearer thinking through short, structured daily sessions.</p>
-      <strong>Status:</strong> Ready for launch
-    </td>
-    <td width="33%">
-      <h3>ThrivePath</h3>
-      <p>A guided growth platform for goals, reflection, progress review, and AI-supported next steps.</p>
-      <p>Built to help people move forward with clearer direction and steady progress.</p>
-      <strong>Status:</strong> In development
-    </td>
-    <td width="33%">
-      <h3>WorkShield</h3>
-      <p>A workplace documentation platform for timelines, organized records, uploads, and review-ready documentation packages.</p>
-      <p>Built to support clear, structured documentation over time.</p>
-      <strong>Status:</strong> Private beta planned
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <em>LumoBridge builds tools for reflection, growth, documentation, and better decisions across work and life.</em>
+</p>
+
+<p align="center">
+  <img src="./LumoBridge_product_ecosystem.png" alt="LumoBridge product ecosystem showing ThriveMap, ThrivePath, and WorkShield" width="900" />
+</p>
 
 ---
 
 ## Current focus
 
-- Preparing ThriveMap for launch
-- Building the LumoBridge public website
-- Developing ThrivePath through product research
-- Preparing WorkShield for private beta
-- Creating the LumoBridge dashboard for product and business visibility
+- Preparing **ThriveMap** for launch
+- Building the **LumoBridge** public website
+- Continuing product research for **ThrivePath**
+- Preparing **WorkShield** for private beta
+- Developing the **LumoBridge dashboard** for product and business visibility
 - Building structured tools for reflection, growth, documentation, analytics, and AI-assisted workflows
 
 ---
 
 ## LumoBridge dashboard
 
-The LumoBridge dashboard is being designed to organize product insights, survey feedback, launch readiness, and business progress in one place.
+The LumoBridge dashboard is being designed to bring product insights, survey feedback, launch readiness, and business progress into one organized place.
 
 | Area | Purpose |
 |---|---|
@@ -73,7 +58,7 @@ The LumoBridge dashboard is being designed to organize product insights, survey 
 
 ## Public feedback
 
-ThriveMap is almost ready for launch.
+**ThriveMap is almost ready for launch.**
 
 I’m building LumoBridge around real user needs, not assumptions. Your feedback would help me understand what people actually need before the next products launch.
 
