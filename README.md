@@ -30,7 +30,15 @@ The focus is simple: build products that are useful, private, organized, and eas
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">WorkShield feedback</a>
 </p>
-
+<p align="center">
+  <a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">
+    <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=F59E0B&color=F59E0B" alt="Take the ThrivePath survey" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
+    <img src="https://img.shields.io/badge/WorkShield-Take%20Survey-10B981?style=for-the-badge&labelColor=10B981&color=10B981" alt="Take the WorkShield survey" />
+  </a>
+</p>
 ## Current focus
 
 - Preparing **ThriveMap** for launch
