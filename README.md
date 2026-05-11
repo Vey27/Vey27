@@ -10,8 +10,22 @@
 
 ### Founder: **Vey Damneun**
 
-Building practical digital products, AI-assisted workflows, dashboards, and structured systems that help people make better decisions.
+## Connect
 
+I’m building **LumoBridge** as a long-term product ecosystem focused on practical tools for clarity, growth, protection, documentation, analytics, and better decision-making.
+
+I’m interested in connecting with visionary people, builders, researchers, designers, founders, community leaders, and organizations that care about meaningful technology, ethical AI, human-centered design, and real-world problem solving.
+
+If this work connects with you, I welcome collaboration, feedback, and aligned opportunities.
+
+<p align="center">
+  <a href="https://lumobridge.com">
+    <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Vey27">
+    <img src="https://img.shields.io/badge/Follow-GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 <br />
 
 <p>
