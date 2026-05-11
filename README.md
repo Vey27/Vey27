@@ -50,6 +50,8 @@ Building human-centered digital tools that turn lived experience, analytics, and
 
 I turn lived experience into practical digital tools.
 
+My background combines AI, analytics, product design, community work, business analytics, and systems thinking. I build with both technical skill and human understanding.
+
 I believe in resilience, growth, and the ability to move beyond limitations. My goal is to create tools that help people stay organized, prevent avoidable harm, make better decisions, and move forward with clarity and confidence.
 
 The goal is simple: create products that are clear, private, organized, and useful.
@@ -89,8 +91,6 @@ I focus on building systems that help people:
 </a>
 
 </div>
-
----
 
 ## LumoBridge dashboard
 
@@ -145,33 +145,55 @@ I’m building LumoBridge around real user needs, not assumptions. Your feedback
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Workflows-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dashboards-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product%20Strategy-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UX%20Design-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Case%20Management-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Community%20Work-374151?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Systems%20Thinking-F59E0B?style=for-the-badge" />
 </p>
+
+---
+
+## Analytics and business foundation
+
+My MSBA background supports how I design, measure, and improve products. I focus on turning data into clear decisions through:
+
+- business analytics
+- KPI design
+- dashboard planning
+- data storytelling
+- product performance tracking
+- customer and user research
+- process improvement
+- decision support
+- AI and machine learning use cases
+- responsible data-informed strategy
 
 ---
 
 ## Focus areas
 
 - AI-powered applications
-- Data analytics and dashboards
-- Product strategy and product research
-- Business intelligence
+- machine learning use cases
+- natural language processing
+- data analytics and dashboards
+- product strategy and product research
+- business intelligence
 - React Native mobile apps
 - Next.js web applications
-- Workflow automation
-- Workplace documentation systems
-- User-centered design
-- Human-centered digital tools
-- Privacy-forward product thinking
+- workflow automation
+- workplace documentation systems
+- user-centered design
+- human-centered digital tools
+- privacy-forward product thinking
 
 ---
 
