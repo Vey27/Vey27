@@ -19,14 +19,12 @@ The focus is simple: build products that are useful, private, organized, and eas
 
 ---
 
-## A growing product ecosystem
 
 <p align="center">
   <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="900" />
 </p>
 
 <p align="center">
-  <a href="https://lumobridge.com">ThriveMap</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">ThrivePath product feedback</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
