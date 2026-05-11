@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./halotran.png" alt="LumoBridge logo" width="150" />
-
-# LumoBridge
+<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge logo" width="260" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=850&lines=Digital+tools+for+clarity%2C+progress%2C+and+protection.;SaaS%2C+dashboards%2C+AI-assisted+workflows%2C+and+structured+systems.;Building+practical+products+around+real+user+needs." alt="LumoBridge animated intro" />
 
@@ -13,7 +11,7 @@ Building practical digital products, dashboards, AI-assisted workflows, and stru
 
 ---
 
-## About LumoBridge
+## About
 
 LumoBridge builds practical digital tools that help people organize important information, think clearly, and move forward with better structure.
 
@@ -116,7 +114,8 @@ Founder: Vey Damneun
 
 <div align="center">
 
-**LumoBridge**  
+<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge logo" width="180" />
+
 Building structured digital tools for reflection, documentation, analytics, and AI-assisted workflows.
 
 </div>
