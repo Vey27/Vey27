@@ -50,8 +50,6 @@ Building human-centered digital tools that turn lived experience, analytics, and
 
 I turn lived experience into practical digital tools.
 
-My background combines AI, analytics, product design, case management, counseling support, community work, and systems thinking. I build with both technical skill and human understanding.
-
 I believe in resilience, growth, and the ability to move beyond limitations. My goal is to create tools that help people stay organized, prevent avoidable harm, make better decisions, and move forward with clarity and confidence.
 
 The goal is simple: create products that are clear, private, organized, and useful.
@@ -91,33 +89,6 @@ I focus on building systems that help people:
 </a>
 
 </div>
-
----
-
-## Current products
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>ThriveMap</h3>
-      <p>A guided reflection app with 4 domains, 5 reflection steps, dashboard insights, and a 70-day practice cycle.</p>
-      <p><strong>Status:</strong> Preparing for launch</p>
-      <p><strong>Focus:</strong> Reflection, clarity, daily practice</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>ThrivePath</h3>
-      <p>A guided growth platform for career reinvention, confidence rebuilding, leadership growth, personal direction, weekly review, and agentic AI coaching.</p>
-      <p><strong>Status:</strong> Product research</p>
-      <p><strong>Focus:</strong> Growth, goals, coaching, progress</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>WorkShield</h3>
-      <p>A private workplace documentation platform for organizing records, timelines, supporting files, and documentation packages.</p>
-      <p><strong>Status:</strong> In development</p>
-      <p><strong>Focus:</strong> Workplace records, documentation, preparedness</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
