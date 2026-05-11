@@ -76,8 +76,9 @@ ThriveMap is almost ready for launch.
 
 I’m building LumoBridge around real user needs, not assumptions. Your feedback would help me understand what people actually need before the next products launch.
 
-[Share feedback on ThrivePath](https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey)  
-[Share feedback on workplace documentation tools](https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey)
+[ThrivePath product feedback](https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey)  
+[Workplace documentation feedback](https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey)  
+[Private community interest survey](https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey)
 
 ---
 
