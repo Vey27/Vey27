@@ -23,13 +23,6 @@ The focus is simple: build products that are useful, private, organized, and eas
 <p align="center">
   <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="900" />
 </p>
-
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">ThrivePath product feedback</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">WorkShield feedback</a>
-</p>
 <p align="center">
   <a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">
     <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=F59E0B&color=F59E0B" alt="Take the ThrivePath survey" />
