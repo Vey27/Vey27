@@ -218,7 +218,7 @@ The long-term vision is to connect mobile apps, web platforms, dashboards, struc
 
 These systems are designed to help people and organizations organize information, understand patterns, surface risks, identify next steps, and make better decisions with more clarity.
 
-The goal is simple: build smarter tools that support real people, real work, and real-world decisions.
+### The goal is simple: build smarter tools that support real people, real work, and real-world decisions.
 ---
 
 ## Connect
