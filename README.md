@@ -1,20 +1,23 @@
+<div align="center">
+
+<img src="./halotran.png" alt="LumoBridge logo" width="150" />
 
 # LumoBridge
 
-### Digital tools for clarity, progress, and protection.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=850&lines=Digital+tools+for+clarity%2C+progress%2C+and+protection.;SaaS%2C+dashboards%2C+AI-assisted+workflows%2C+and+structured+systems.;Building+practical+products+around+real+user+needs." alt="LumoBridge animated intro" />
 
 Founder: **Vey Damneun**  
-Building practical SaaS products, AI-assisted workflows, dashboards, and structured documentation systems.
+Building practical digital products, dashboards, AI-assisted workflows, and structured systems.
 
 </div>
 
 ---
 
-## What I’m building
+## About LumoBridge
 
-LumoBridge is a product studio focused on tools that help people organize important information, reflect with structure, document events over time, and make better decisions.
+LumoBridge builds practical digital tools that help people organize important information, think clearly, and move forward with better structure.
 
-The goal is simple: build tools that are clear, useful, private, and practical.
+The focus is simple: build products that are useful, private, organized, and easy to understand.
 
 ---
 
@@ -25,39 +28,23 @@ The goal is simple: build tools that are clear, useful, private, and practical.
     <td width="33%">
       <h3>ThriveMap</h3>
       <p>A guided reflection app built around a 70-day practice.</p>
-      <p>Users move through Ground, Visualize, Rehearse, Write, and Anchor to build clearer thinking and better daily decisions.</p>
+      <p>Designed to help users build clearer thinking through short, structured daily sessions.</p>
       <strong>Status:</strong> Preparing for launch
     </td>
     <td width="33%">
       <h3>ThrivePath</h3>
-      <p>A premium growth platform for goals, weekly review, skill-building, and agentic AI coaching.</p>
-      <p>Designed for career reinvention, confidence rebuild, leadership growth, and personal direction.</p>
-      <strong>Status:</strong> Research and product planning
+      <p>A premium growth platform for goals, weekly review, skill-building, and AI-assisted coaching.</p>
+      <p>Built for career growth, confidence, leadership, and personal direction.</p>
+      <strong>Status:</strong> Product research
     </td>
     <td width="33%">
-      <h3>WorkShield</h3>
-      <p>A workplace documentation platform for structured incident records, timelines, uploads, dashboards, and review-ready documentation packages.</p>
-      <p><strong>Note:</strong> WorkShield supports documentation workflows only. It is not legal advice or legal representation.</p>
-      <strong>Status:</strong> Active SaaS build
+      <h3>LumoBridge Dashboard</h3>
+      <p>A business and product dashboard for insights, survey feedback, launch readiness, and progress tracking.</p>
+      <p>Built to keep product, marketing, and development work organized in one place.</p>
+      <strong>Status:</strong> In development
     </td>
   </tr>
 </table>
-
----
-
-## LumoBridge dashboard
-
-I’m building a LumoBridge dashboard to bring product insights, user feedback, survey results, launch readiness, and business progress into one organized place.
-
-The dashboard is designed to help track:
-
-| Area | Purpose |
-|---|---|
-| Product progress | Track launch readiness across ThriveMap, ThrivePath, and WorkShield |
-| Survey feedback | Review public feedback from early users and potential customers |
-| Business metrics | Monitor signups, interest, product demand, and next steps |
-| User needs | Identify patterns across product research responses |
-| Launch planning | Keep product, marketing, and development work aligned |
 
 ---
 
@@ -65,9 +52,23 @@ The dashboard is designed to help track:
 
 - Preparing ThriveMap for launch
 - Building the LumoBridge public website
-- Developing WorkShield as a SaaS documentation platform
-- Researching ThrivePath with real user feedback
-- Creating a dashboard for product and business visibility
+- Developing product research for ThrivePath
+- Creating the LumoBridge dashboard
+- Building structured tools for reflection, documentation, analytics, and AI-assisted workflows
+
+---
+
+## LumoBridge dashboard
+
+The LumoBridge dashboard is being designed to organize product insights, survey feedback, launch readiness, and business progress.
+
+| Area | Purpose |
+|---|---|
+| Product progress | Track work across LumoBridge products |
+| Public feedback | Review survey responses and early user needs |
+| Business metrics | Monitor interest, signups, demand, and next steps |
+| Launch readiness | Keep product, marketing, and development aligned |
+| Decision support | Turn scattered information into clear next actions |
 
 ---
 
@@ -75,10 +76,10 @@ The dashboard is designed to help track:
 
 ThriveMap is almost ready for launch.
 
-I’m building LumoBridge to create practical tools for reflection, growth, structured documentation, and clear decision-making. Your feedback would help me understand what people actually need before ThrivePath and WorkShield launch.
+I’m building LumoBridge around real user needs, not assumptions. Your feedback would help me understand what people actually need before the next products launch.
 
 [Share feedback on ThrivePath](https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey)  
-[Share feedback on WorkShield](https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey)
+[Share feedback on workplace documentation tools](https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey)
 
 ---
 
@@ -87,10 +88,11 @@ I’m building LumoBridge to create practical tools for reflection, growth, stru
 <p>
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-16A34A?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboards-1F2937?style=for-the-badge" />
 </p>
 
 ---
@@ -108,7 +110,6 @@ I’m building LumoBridge to create practical tools for reflection, growth, stru
 ## Links
 
 Website: https://lumobridge.com  
-Product: WorkShield  
 Founder: Vey Damneun
 
 ---
