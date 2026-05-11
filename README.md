@@ -110,7 +110,7 @@ The LumoBridge dashboard is being designed to bring product insights, survey fee
 
 **ThriveMap is close to launch.**
 
-I’m building LumoBridge around real user needs, not assumptions. Feedback helps shape the next products before they launch.
+I’m building LumoBridge around real user needs, not assumptions. Your feedback helps guide what we build, improve, and prioritize before the next products launch.
 
 <div align="center">
 
