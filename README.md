@@ -25,12 +25,11 @@ The focus is simple: build products that are useful, private, organized, and eas
 </p>
 
 <p align="center">
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">ThrivePath product feedback</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">WorkShield feedback</a>
 </p>
----
 
 ## Current focus
 
