@@ -212,21 +212,13 @@ My MSBA background supports how I design, measure, and improve products. I focus
 
 ## What I’m building toward
 
-LumoBridge is becoming a multi-product ecosystem focused on practical software for people, teams, and organizations.
+LumoBridge is growing into a multi-product ecosystem focused on practical software, intelligent workflows, and human-centered decision support.
 
-The long-term goal is to connect:
+The long-term vision is to connect mobile apps, web platforms, dashboards, structured documentation tools, feedback systems, and agentic AI workflows into one clear product ecosystem.
 
-- mobile apps
-- web platforms
-- dashboards
-- AI-assisted workflows
-- structured documentation tools
-- product feedback systems
-- decision-support dashboards
-- community-informed product research
+These systems are designed to help people and organizations organize information, understand patterns, surface risks, identify next steps, and make better decisions with more clarity.
 
-into one clear product ecosystem.
-
+The goal is simple: build smarter tools that support real people, real work, and real-world decisions.
 ---
 
 ## Connect
