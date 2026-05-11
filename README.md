@@ -67,35 +67,6 @@ I focus on building systems that help people:
 
 </div>
 
----
-
-## Current products
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>ThriveMap</h3>
-      <p>A guided reflection app with 4 domains, 5 reflection steps, dashboard insights, and a 70-day practice cycle.</p>
-      <p><strong>Status:</strong> Preparing for launch</p>
-      <p><strong>Focus:</strong> Reflection, clarity, daily practice</p>
-    </td>
-    <td width="33%">
-      <h3>ThrivePath</h3>
-      <p>A guided growth platform for career reinvention, confidence rebuilding, leadership growth, personal direction, weekly review, and agentic AI coaching.</p>
-      <p><strong>Status:</strong> Product research</p>
-      <p><strong>Focus:</strong> Growth, goals, coaching, progress</p>
-    </td>
-    <td width="33%">
-      <h3>WorkShield</h3>
-      <p>A private workplace documentation platform for organizing records, timelines, supporting files, and documentation packages.</p>
-      <p><strong>Status:</strong> In development</p>
-      <p><strong>Focus:</strong> Workplace records, documentation, preparedness</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## LumoBridge dashboard
 
 The LumoBridge dashboard is being designed to bring product insights, survey feedback, launch readiness, and business progress into one organized view.
