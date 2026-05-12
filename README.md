@@ -186,29 +186,6 @@ Exploring a safer space for workplace support and documentation needs.
 
 </div>
 
----
-
-## GitHub activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Vey27&bg_color=0D1117&color=E5E7EB&line=6366F1&point=F59E0B&area=true&hide_border=true&radius=14"
-  alt="Vey Damneun GitHub activity graph"
-  width="100%"
-/>
-
-<br /><br />
-
-<img 
-  src="https://streak-stats.demolab.com?user=Vey27&theme=dark&hide_border=true&border_radius=14&ring=6366F1&fire=F59E0B&currStreakLabel=10B981&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=F9FAFB&sideNums=F9FAFB&background=0D1117" 
-  alt="Vey Damneun GitHub streak" 
-  width="62%" 
-/>
-
-</div>
-
----
 
 ## Product principles
 
