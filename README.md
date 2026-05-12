@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./GitHub-2.png" alt="LumoBridge logo" width="260" />
+<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge logo" width="260" />
 
 <br />
 
