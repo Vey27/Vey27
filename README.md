@@ -1,30 +1,30 @@
 <div align="center">
 
-# Hi, I’m Vey Damneun
+# Vey Damneun
 
 ### Founder of LumoBridge · Product Builder · AI & Analytics Strategist
 
-I build practical digital products that help people and organizations create more clarity, structure, and better decisions.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=950&lines=Building+digital+tools+for+clarity%2C+progress%2C+and+protection.;Creating+AI-powered+apps%2C+dashboards%2C+and+decision-support+systems.;Designing+products+that+solve+real+human+problems.;Founder+of+LumoBridge+%E2%80%94+a+growing+product+ecosystem." alt="Animated introduction" />
 
-<br />
+<br /><br />
 
 <p>
   <a href="https://lumobridge.com">
     <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" alt="Visit LumoBridge website" />
   </a>
   <a href="https://github.com/LumoBridge">
-    <img src="https://img.shields.io/badge/Explore-LumoBridge%20on%20GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore LumoBridge GitHub" />
+    <img src="https://img.shields.io/badge/Explore-LumoBridge%20GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore LumoBridge GitHub" />
   </a>
   <a href="mailto:hello@lumobridge.com">
-    <img src="https://img.shields.io/badge/Contact-hello@lumobridge.com-10B981?style=for-the-badge" alt="Contact LumoBridge" />
+    <img src="https://img.shields.io/badge/Contact-hello%40lumobridge.com-10B981?style=for-the-badge" alt="Contact LumoBridge" />
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Product%20Strategy-F59E0B?style=for-the-badge&labelColor=111827" alt="Product Strategy" />
+  <img src="https://img.shields.io/badge/Founder-LumoBridge-F59E0B?style=for-the-badge&labelColor=111827" alt="Founder of LumoBridge" />
   <img src="https://img.shields.io/badge/AI%20Products-6366F1?style=for-the-badge&labelColor=111827" alt="AI Products" />
   <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&labelColor=111827" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge&labelColor=111827" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Data%20%26%20Analytics-10B981?style=for-the-badge&labelColor=111827" alt="Data and Analytics" />
 </p>
 
 </div>
@@ -33,108 +33,135 @@ I build practical digital products that help people and organizations create mor
 
 ## About me
 
-I’m the founder of **LumoBridge**, a product company focused on building thoughtful digital tools across:
+I am building **LumoBridge**, a product company focused on practical, human-centered digital tools that help people and organizations:
 
-- AI-powered applications
-- mobile and web products
-- structured documentation systems
-- decision-support dashboards
-- human-centered product research
-- data analytics and automation
-
-My background brings together **business analytics, product thinking, data strategy, user-centered design, and applied AI**.
-
-I am especially interested in products that help people:
-
-- organize complex information
+- organize important information
 - make clearer decisions
+- follow structured progress
 - document what matters
-- follow structured progress over time
-- use technology in ways that feel practical, trustworthy, and useful
+- use AI in ways that feel useful, responsible, and grounded
+
+My work sits at the intersection of:
+
+**product strategy · business analytics · AI applications · UX thinking · digital systems · real-world problem solving**
+
+I am especially interested in building products that are not just technically impressive, but also **clear, trustworthy, and genuinely useful in people’s lives**.
 
 ---
 
 ## Building LumoBridge
 
-<p align="center">
-  <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge product ecosystem" width="900" />
-</p>
+<div align="center">
 
-**LumoBridge** is the company behind a growing ecosystem of products designed for clarity, progress, and protection.
+<img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="940" />
 
-| Product | Focus | Status |
+</div>
+
+**LumoBridge** is a growing digital product ecosystem focused on clarity, progress, documentation, and decision support.
+
+| Product | What it helps with | Stage |
 |---|---|---|
 | **ThriveMap** | Guided reflection, structured practice, and personal clarity | Preparing for public launch |
-| **ThrivePath** | Career growth, goals, confidence, weekly review, and agentic AI coaching | Product research |
-| **WorkShield** | Workplace documentation, records, timelines, and preparedness | In development |
-
-<p align="center">
-  <a href="https://github.com/LumoBridge">
-    <img src="https://img.shields.io/badge/View-LumoBridge%20Organization-111827?style=for-the-badge&logo=github&logoColor=white" alt="View LumoBridge Organization" />
-  </a>
-</p>
-
----
-
-## Featured product: ThriveMap
-
-**ThriveMap** is LumoBridge’s first public product.
-
-It is a guided reflection app designed to help users build a consistent practice for clearer thinking, steadier progress, and structured personal growth.
-
-### ThriveMap includes
-
-- four reflection domains
-- five-step guided sessions
-- weekly practice cycles
-- a 70-day journey structure
-- personal reflection history
-- progress summaries
-- web, iOS, and Android release preparation
-
-<p>
-  <a href="https://github.com/LumoBridge/ThriveMap-Public-">
-    <img src="https://img.shields.io/badge/View-ThriveMap%20Public%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View ThriveMap Public Repo" />
-  </a>
-</p>
-
----
-
-## Current research and feedback
-
-I believe strong products should be shaped by real user needs, not assumptions.
-
-LumoBridge is currently collecting feedback for:
-
-- **ThrivePath** — a premium guided growth platform for goals, career direction, confidence, and agentic AI coaching
-- **WorkShield** — a workplace documentation platform for records, timelines, supporting files, and preparedness
-- **WorkShield Private Community** — a potential private space for people navigating workplace concerns and documentation needs
+| **ThrivePath** | Goals, career direction, confidence, weekly review, and agentic AI coaching | Product research |
+| **WorkShield** | Workplace documentation, timelines, organized records, and preparedness | In development |
 
 <div align="center">
 
-<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey2">
-  <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the ThrivePath survey" />
-</a>
-
-<br /><br />
-
-<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
-  <img src="https://img.shields.io/badge/WorkShield%20App-Take%20Survey-10B981?style=for-the-badge&labelColor=111827" alt="Take the WorkShield app survey" />
-</a>
-
-<br /><br />
-
-<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
-  <img src="https://img.shields.io/badge/WorkShield%20Private%20Community-Share%20Feedback-6366F1?style=for-the-badge&labelColor=111827" alt="Share feedback for WorkShield Private Community" />
+<a href="https://github.com/LumoBridge">
+  <img src="https://img.shields.io/badge/View-LumoBridge%20Organization-111827?style=for-the-badge&logo=github&logoColor=white" alt="View LumoBridge organization" />
 </a>
 
 </div>
 
 ---
 
-## What I work with
+## Featured product
 
-<p align="center">
+### ThriveMap
+
+**ThriveMap** is the first public product in the LumoBridge ecosystem.
+
+It is a guided reflection app designed to help users build a more consistent practice for **clarity, steadiness, and intentional progress**.
+
+#### Core experience
+
+- **4 reflection domains**
+- **5-step guided reflection sessions**
+- **weekly practice cycles**
+- **70-day journey structure**
+- **reflection history and progress summaries**
+- **web, iOS, and Android release preparation**
+
+<p>
+  <a href="https://github.com/LumoBridge/ThriveMap-Public-">
+    <img src="https://img.shields.io/badge/Open-ThriveMap%20Public%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Open ThriveMap public repository" />
+  </a>
+</p>
+
+---
+
+## Product research in progress
+
+Strong products should be shaped by **real people, real needs, and real feedback**.
+
+LumoBridge is currently collecting input for future product decisions:
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  
+### ThrivePath  
+Guided growth, goals, confidence, weekly review, and agentic AI coaching.
+
+<br />
+
+<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey2">
+  <img src="https://img.shields.io/badge/Take%20Survey-ThrivePath-F59E0B?style=for-the-badge&labelColor=111827" alt="Take ThrivePath survey" />
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### WorkShield App  
+Workplace documentation, records, timelines, and preparation.
+
+<br />
+
+<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
+  <img src="https://img.shields.io/badge/Take%20Survey-WorkShield-10B981?style=for-the-badge&labelColor=111827" alt="Take WorkShield survey" />
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Private Community  
+Exploring a safer space for workplace support and documentation needs.
+
+<br />
+
+<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
+  <img src="https://img.shields.io/badge/Share%20Feedback-Community-6366F1?style=for-the-badge&labelColor=111827" alt="Share feedback for community survey" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## What I build with
+
+<div align="center">
+
+### Product and development
+
+<p>
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
@@ -142,54 +169,72 @@ LumoBridge is currently collecting feedback for:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-F59E0B?style=for-the-badge" alt="Business Intelligence" />
-  <img src="https://img.shields.io/badge/AI%20Workflows-6366F1?style=for-the-badge" alt="AI Workflows" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Product%20Research-374151?style=for-the-badge" alt="Product Research" />
-  <img src="https://img.shields.io/badge/UX%20Strategy-111827?style=for-the-badge" alt="UX Strategy" />
+### Strategy and systems
+
+<p>
+  <img src="https://img.shields.io/badge/Product%20Strategy-F59E0B?style=for-the-badge&labelColor=111827" alt="Product Strategy" />
+  <img src="https://img.shields.io/badge/Business%20Analytics-10B981?style=for-the-badge&labelColor=111827" alt="Business Analytics" />
+  <img src="https://img.shields.io/badge/AI%20Workflows-6366F1?style=for-the-badge&labelColor=111827" alt="AI Workflows" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&labelColor=111827" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/UX%20Thinking-374151?style=for-the-badge&labelColor=111827" alt="UX Thinking" />
 </p>
+
+</div>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vey27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=E5E7EB" alt="Vey's GitHub stats" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Vey27&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=10B981&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=E5E7EB&sideNums=E5E7EB" alt="Vey's GitHub streak" />
+
+</div>
 
 ---
 
 ## Product principles
 
-| Principle | What it means |
+| Principle | Meaning |
 |---|---|
-| **Clarity first** | Make products easy to understand |
-| **Real needs matter** | Build around actual user problems |
-| **Useful over flashy** | Prioritize value, not noise |
-| **Privacy deserves care** | Treat sensitive information responsibly |
-| **Structure supports progress** | Help people see what to do next |
-| **Technology should serve people** | Tools should reduce confusion, not add to it |
+| **Clarity before complexity** | Make products understandable and useful |
+| **Real needs before assumptions** | Let feedback guide decisions |
+| **Privacy deserves care** | Handle sensitive information responsibly |
+| **Useful before flashy** | Build for value, not noise |
+| **Structure supports progress** | Help people know what to do next |
+| **Technology should serve people** | Systems should reduce confusion, not add to it |
 
 ---
 
-## Open to connection
+## Connect and collaborate
 
-I’m interested in connecting with people working in:
+I welcome connection with people and organizations working in:
 
-- product design and strategy
-- AI applications and agentic systems
-- analytics and decision-support tools
-- human-centered technology
-- ethical, practical software development
-- feedback, collaboration, and aligned partnerships
-
-<p align="center">
-  <a href="https://lumobridge.com">
-    <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" alt="Visit LumoBridge" />
-  </a>
-  <a href="https://github.com/LumoBridge">
-    <img src="https://img.shields.io/badge/Follow-LumoBridge%20on%20GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Follow LumoBridge on GitHub" />
-  </a>
-</p>
-
----
+- practical AI applications
+- thoughtful product development
+- analytics and decision-support systems
+- ethical, human-centered technology
+- research-informed digital products
+- collaboration, partnerships, and aligned opportunities
 
 <div align="center">
 
-### Building structured digital tools for clarity, progress, and protection.
+<p>
+  <a href="https://lumobridge.com">
+    <img src="https://img.shields.io/badge/Website-LumoBridge.com-111827?style=for-the-badge" alt="LumoBridge website" />
+  </a>
+  <a href="https://github.com/LumoBridge">
+    <img src="https://img.shields.io/badge/Follow-LumoBridge-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Follow LumoBridge" />
+  </a>
+  <a href="mailto:hello@lumobridge.com">
+    <img src="https://img.shields.io/badge/Email-hello%40lumobridge.com-10B981?style=for-the-badge" alt="Email LumoBridge" />
+  </a>
+</p>
+
+<br />
+
+### Building digital tools for clarity, progress, and protection.
 
 </div>
