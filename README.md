@@ -192,11 +192,11 @@ Exploring a safer space for workplace support and documentation needs.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vey27/Vey27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vey27/Vey27/output/github-contribution-grid-snake.svg">
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Vey27/Vey27/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Vey27&bg_color=0D1117&color=E5E7EB&line=6366F1&point=F59E0B&area=true&hide_border=true&radius=14"
+  alt="Vey Damneun GitHub activity graph"
+  width="100%"
+/>
 
 <br /><br />
 
