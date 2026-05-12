@@ -76,7 +76,7 @@ Your feedback helps guide what we build, improve, and prioritize.
 
 <div align="center">
 
-<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">
+<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey2">
   <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the ThrivePath survey" />
 </a>
 
