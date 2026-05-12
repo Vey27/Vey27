@@ -204,7 +204,7 @@ We welcome feedback, collaboration, and aligned opportunities with people and or
 
 <div align="center">
 
-<img src="./GitHub-2.png" alt="LumoBridge logo" width="160" />
+<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge logo" width="160" />
 
 <br />
 
