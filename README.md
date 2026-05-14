@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="220" />
+
 # Vey Damneun
 
 ### Founder of LumoBridge · Product Builder · AI & Analytics Strategist
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=1000&lines=Building+digital+tools+for+clarity%2C+progress%2C+and+protection.;Creating+AI-powered+apps%2C+dashboards%2C+and+decision-support+systems.;Designing+products+that+solve+real+human+problems.;Founder+of+LumoBridge+%E2%80%94+a+growing+product+ecosystem." alt="Animated introduction" />
 
