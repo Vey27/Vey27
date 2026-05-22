@@ -68,7 +68,7 @@ I am especially interested in creating products that are not only technically ca
 | Product | What it helps with | Stage |
 |---|---|---|
 | **ThriveMap** | Guided reflection, structured practice, and personal clarity | Preparing for public launch |
-| **ThrivePath** | Goals, career direction, confidence, weekly review, and agentic AI coaching | Product research |
+| **Cadentra** | Goals, career direction, confidence, weekly review, and agentic AI coaching | Product research |
 | **WorkShield** | Workplace documentation, timelines, organized records, and preparedness | In development |
 
 <div align="center">
@@ -118,14 +118,14 @@ LumoBridge is currently collecting input for future product decisions:
 <tr>
 <td align="center" width="33%">
   
-### ThrivePath  
+### Cadentra  
 
 Guided growth, goals, confidence, weekly review, and agentic AI coaching.
 
 <br />
 
-<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey2">
-  <img src="https://img.shields.io/badge/Take%20Survey-ThrivePath-F59E0B?style=for-the-badge&labelColor=111827" alt="Take ThrivePath survey" />
+<a href="https://www.cognitoforms.com/VeyDamneun/CadentraProductResearchSurvey">
+  <img src="https://img.shields.io/badge/Take%20Survey-Cadentra-F59E0B?style=for-the-badge&labelColor=111827" alt="Take Cadentra product research survey" />
 </a>
 
 </td>
@@ -139,7 +139,7 @@ Workplace documentation, records, timelines, and preparation.
 <br />
 
 <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
-  <img src="https://img.shields.io/badge/Take%20Survey-WorkShield-10B981?style=for-the-badge&labelColor=111827" alt="Take WorkShield survey" />
+  <img src="https://img.shields.io/badge/Take%20Survey-WorkShield-10B981?style=for-the-badge&labelColor=111827" alt="Take WorkShield customer research survey" />
 </a>
 
 </td>
@@ -190,6 +190,7 @@ Exploring a safer space for workplace support and documentation needs.
 
 </div>
 
+---
 
 ## Product principles
 
