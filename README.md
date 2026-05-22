@@ -55,14 +55,6 @@ I am especially interested in creating products that are not only technically ca
 
 ---
 
-## Building LumoBridge
-
-<div align="center">
-
-<img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="940" />
-
-</div>
-
 **LumoBridge** is a digital product ecosystem focused on clarity, progress, documentation, and decision support.
 
 | Product | What it helps with | Stage |
