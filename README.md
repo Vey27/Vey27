@@ -83,12 +83,15 @@ It is a guided reflection app designed to help users build a more consistent pra
 
 #### Core experience
 
-- **4 reflection domains**
-- **5-step guided reflection sessions**
-- **weekly practice cycles**
-- **70-day journey structure**
-- **reflection history and progress summaries**
-- **web, iOS, and Android release preparation**
+- **Guided 5-step sessions: Ground, Visualize, Rehearse, Write, and Anchor**
+- **Home dashboard with cycle progress and daily focus**
+- **70-day journey across 10 weekly cycles**
+- **Cycle dashboard with calendar, domain activity, and weekly insights**
+- **Journey Summary with patterns, growth trend, domain mix, and next steps**
+- **Continuing reflection content after the foundation**
+_ **Integration Mode after completion**
+-**Saved reflection history**
+-**PDF, CSV, and custom export options**
 
 <p>
   <a href="https://github.com/LumoBridge/ThriveMap-Public-">
