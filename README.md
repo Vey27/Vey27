@@ -90,8 +90,8 @@ It is a guided reflection app designed to help users build a more consistent pra
 - **Journey Summary with patterns, growth trend, domain mix, and next steps**
 - **Continuing reflection content after the foundation**
 _ **Integration Mode after completion**
--**Saved reflection history**
--**PDF, CSV, and custom export options**
+- **Saved reflection history**
+- **PDF, CSV, and custom export options**
 
 <p>
   <a href="https://github.com/LumoBridge/ThriveMap-Public-">
