@@ -2,7 +2,7 @@
 
 <img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="220" />
 
-# Vey Damneun
+
 
 ### Founder of LumoBridge · Product Builder · AI & Analytics Strategist
 
