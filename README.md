@@ -149,9 +149,9 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 
 <table>
 <tr>
-<td width="30%" align="center" valign="top">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="110" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="150" />
 
 <br /><br />
 
@@ -162,15 +162,24 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 <sub>Choose a path, set one goal, and understand the next step.</sub>
 
 </td>
-<td width="70%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="520" />
+<td width="65%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="500" />
 
 <br /><br />
 
 <strong>Track clarity, goals, and next steps</strong>
 
 <br />
+
+<sub>Dashboard view with goals, check-ins, obstacles, progress, and AI-supported guidance.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <sub>Dashboard view with goals, check-ins, obstacles, progress, and AI-supported guidance.</sub>
 
