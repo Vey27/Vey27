@@ -162,19 +162,104 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 </td>
 <td width="55%" valign="top">
 
-## Core experience
+<h2>Core experience</h2>
 
-* Guided onboarding
-* Personalized progress dashboard
-* Career, confidence, and goal direction support
-* Weekly review flow
-* Practical AI coaching
-* Pattern, obstacle, and progress insights
-* Calm interface designed to reduce overwhelm
+<p>
+Cadentra is organized around four focus areas, supported by onboarding, progress tracking, weekly review, and practical AI coaching.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>Career Reinvention</strong>
+<br />
+<sub>Build a new work direction, business path, or product-led future.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Confidence Rebuild</strong>
+<br />
+<sub>Rebuild self-trust through small, realistic actions.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<strong>Leadership Growth</strong>
+<br />
+<sub>Strengthen decisions, communication, and direction.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Personal Direction</strong>
+<br />
+<sub>Choose what needs attention now and move forward.</sub>
 
 </td>
 </tr>
 </table>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>Guided onboarding</strong>
+<br />
+<sub>Choose a path and set one realistic goal.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Progress dashboard</strong>
+<br />
+<sub>Track goals, clarity, check-ins, and next steps.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<strong>Weekly review</strong>
+<br />
+<sub>Reflect, adjust, and continue with structure.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Practical AI coaching</strong>
+<br />
+<sub>Get grounded support for planning and action.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<strong>Progress insights</strong>
+<br />
+<sub>See patterns, obstacles, and movement over time.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Calm interface</strong>
+<br />
+<sub>Reduce overwhelm and focus on the next useful step.</sub>
+
+</td>
+</tr>
+</table>
+
+</td>
 
 <br />
 
