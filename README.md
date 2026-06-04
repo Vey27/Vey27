@@ -150,7 +150,7 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="600" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/adentraOnboading.png" alt="Cadentra dashboard preview" width="600" />
 <br /><br />
 
 <strong>Start with direction</strong>
