@@ -1,3 +1,5 @@
+please edit the formate especially with images. it to generic. 
+
 <div align="center">
 
 <img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="220" />
@@ -240,3 +242,6 @@ I welcome connection with people and organizations working in:
 ### Building digital tools for clarity, progress, and protection.
 
 </div>
+
+
+paths gif in the ThriveMap section https://github.com/Vey27/Vey27/blob/main/LumoBridge_videoHeroWeb-2.gif
