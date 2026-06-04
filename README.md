@@ -77,23 +77,20 @@ I am especially interested in products that are not only technically capable, bu
 
 # Product 1: ThriveMap
 
-<div align="center">
+<table>
+<tr>
+<td width="58%" align="center" valign="middle">
 
-<h3>Guided reflection for clarity, steadiness, and intentional progress</h3>
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/thriveMapprod.png" alt="ThriveMap product screen preview" width="500" />
 
-<p>
-<strong>ThriveMap</strong> helps users build a more consistent reflection practice through structured sessions, progress tracking, and personal review.
-</p>
+</td>
+<td width="42%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="310" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="300" />
 
-<br />
-
-<sub><strong>ThriveMap preview:</strong> guided reflection, progress tracking, and structured personal review.</sub>
-
-</div>
-
-<br />
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
