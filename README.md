@@ -65,38 +65,6 @@ I am especially interested in products that are not only technically capable, bu
 
 <br />
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<h3>1. ThriveMap</h3>
-
-Guided reflection, structured practice, and personal clarity.
-
-<strong>Stage:</strong> Preparing for launch
-
-</td>
-<td width="33%" valign="top">
-
-<h3>2. Cadentra</h3>
-
-Goals, career direction, confidence, weekly review, and agentic AI coaching.
-
-<strong>Stage:</strong> Preparing for launch
-
-</td>
-<td width="33%" valign="top">
-
-<h3>3. WorkShield</h3>
-
-Workplace documentation, timelines, organized records, and preparedness.
-
-<strong>Stage:</strong> In development
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <a href="https://github.com/LumoBridge">
