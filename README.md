@@ -49,20 +49,27 @@ I am especially interested in products that are not only technically capable, bu
 
 ## LumoBridge product ecosystem
 
+<div align="center">
+
+<p>
+<strong>Three connected product domains:</strong> reflection, growth, and workplace documentation.
+</p>
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/threedomains.png" alt="LumoBridge three product domains: ThriveMap, Cadentra, and WorkShield" width="820" />
+
+<br />
+
+<sub>ThriveMap · Cadentra · WorkShield</sub>
+
+</div>
+
+<br />
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<h3>Cadentra</h3>
-
-Goals, career direction, confidence, weekly review, and agentic AI coaching.
-
-<strong>Stage:</strong> Preparing for launch
-
-</td>
-<td width="33%" valign="top">
-
-<h3>ThriveMap</h3>
+<h3>1. ThriveMap</h3>
 
 Guided reflection, structured practice, and personal clarity.
 
@@ -71,7 +78,16 @@ Guided reflection, structured practice, and personal clarity.
 </td>
 <td width="33%" valign="top">
 
-<h3>WorkShield</h3>
+<h3>2. Cadentra</h3>
+
+Goals, career direction, confidence, weekly review, and agentic AI coaching.
+
+<strong>Stage:</strong> Preparing for launch
+
+</td>
+<td width="33%" valign="top">
+
+<h3>3. WorkShield</h3>
 
 Workplace documentation, timelines, organized records, and preparedness.
 
@@ -91,7 +107,65 @@ Workplace documentation, timelines, organized records, and preparedness.
 
 ---
 
-# Featured product: Cadentra
+# Product 1: ThriveMap
+
+<div align="center">
+
+<h3>Guided reflection for clarity, steadiness, and intentional progress</h3>
+
+<p>
+<strong>ThriveMap</strong> helps users build a more consistent reflection practice through structured sessions, progress tracking, and personal review.
+</p>
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="310" />
+
+<br />
+
+<sub><strong>ThriveMap preview:</strong> guided reflection, progress tracking, and structured personal review.</sub>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Core experience
+
+* Guided reflection sessions
+* Daily focus and cycle progress
+* Reflection history
+* Journey summary
+* Pattern and growth insights
+* Export options for personal review
+
+</td>
+<td width="50%" valign="top">
+
+## Designed for
+
+* building a regular reflection rhythm
+* organizing personal insight
+* noticing patterns over time
+* supporting steady, intentional growth
+* reviewing progress with more structure
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/LumoBridge/ThriveMap-Public-">
+  <img src="https://img.shields.io/badge/Open-ThriveMap%20Public%20Repo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open ThriveMap public repository" />
+</a>
+
+</div>
+
+---
+
+# Product 2: Cadentra
 
 <div align="center">
 
@@ -181,65 +255,7 @@ Cadentra begins by helping users choose a path, set one realistic goal, and unde
 
 ---
 
-# ThriveMap
-
-<div align="center">
-
-<h3>Guided reflection for clarity, steadiness, and intentional progress</h3>
-
-<p>
-<strong>ThriveMap</strong> helps users build a more consistent reflection practice through structured sessions, progress tracking, and personal review.
-</p>
-
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="310" />
-
-<br />
-
-<sub><strong>ThriveMap preview:</strong> guided reflection, progress tracking, and structured personal review.</sub>
-
-</div>
-
-<br />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ThriveMap core experience
-
-* Guided reflection sessions
-* Daily focus and cycle progress
-* Reflection history
-* Journey summary
-* Pattern and growth insights
-* Export options for personal review
-
-</td>
-<td width="50%" valign="top">
-
-## Designed for
-
-* building a regular reflection rhythm
-* organizing personal insight
-* noticing patterns over time
-* supporting steady, intentional growth
-* reviewing progress with more structure
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/LumoBridge/ThriveMap-Public-">
-  <img src="https://img.shields.io/badge/Open-ThriveMap%20Public%20Repo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open ThriveMap public repository" />
-</a>
-
-</div>
-
----
-
-# WorkShield
+# Product 3: WorkShield
 
 <div align="center">
 
