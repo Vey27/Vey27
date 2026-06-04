@@ -265,7 +265,7 @@ Cadentra is organized around four focus areas, supported by onboarding, progress
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="800" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="900" />
 
 <br />
 
