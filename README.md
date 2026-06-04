@@ -265,7 +265,7 @@ Cadentra is organized around four focus areas, supported by onboarding, progress
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="900" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="1000" />
 
 <br />
 
@@ -281,7 +281,7 @@ Cadentra is organized around four focus areas, supported by onboarding, progress
 <tr>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="320" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="420" />
 
 </td>
 <td width="58%" valign="middle">
