@@ -208,7 +208,7 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="620" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="310" />
 
 <br /><br />
 
