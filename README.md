@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="210" />
+<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="190" />
 
-<h3>Founder of LumoBridge · Product Builder · AI & Analytics Strategist</h3>
+<h2>LumoBridge</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=1000&lines=Building+digital+tools+for+clarity%2C+progress%2C+and+protection.;Creating+AI-powered+apps%2C+dashboards%2C+and+decision-support+systems.;Designing+products+that+solve+real+human+problems.;Founder+of+LumoBridge+%E2%80%94+a+growing+product+ecosystem." alt="Animated introduction" />
+<h3>Product Builder · AI & Analytics Strategist · Founder</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=950&lines=Building+digital+tools+for+clarity%2C+progress%2C+and+protection.;Creating+AI-powered+apps%2C+dashboards%2C+and+decision-support+systems.;Designing+products+that+solve+real+human+problems.;Founder+of+LumoBridge+%E2%80%94+a+growing+product+ecosystem." alt="Animated introduction" />
 
 <br /><br />
 
@@ -33,55 +35,47 @@
 
 ## About me
 
-I am the founder of **LumoBridge**, a growing digital product company focused on practical, human-centered technology.
+I am the founder of **LumoBridge**, a digital product company focused on practical, human-centered technology.
 
-I build products that help people and organizations:
-
-* organize important information
-* make clearer decisions
-* follow structured progress
-* document what matters
-* use AI in ways that feel useful, responsible, and grounded
+I build products that help people and organizations organize important information, make clearer decisions, follow structured progress, document what matters, and use AI in ways that feel useful, responsible, and grounded.
 
 My work sits at the intersection of:
 
 **Product strategy · Business analytics · AI applications · UX thinking · Digital systems · Real-world problem solving**
 
-I am especially interested in creating products that are not only technically capable, but also **clear, trustworthy, and genuinely useful in people’s lives**.
+I am especially interested in products that are not only technically capable, but also **clear, trustworthy, and genuinely useful in people’s lives**.
 
 ---
 
 ## LumoBridge product ecosystem
 
-**LumoBridge** is a digital product ecosystem focused on clarity, progress, documentation, and decision support.
-
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Cadentra
+<h3>Cadentra</h3>
 
 Goals, career direction, confidence, weekly review, and agentic AI coaching.
 
-**Stage:** Preparing for launch
+<strong>Stage:</strong> Preparing for launch
 
 </td>
 <td width="33%" valign="top">
 
-### ThriveMap
+<h3>ThriveMap</h3>
 
 Guided reflection, structured practice, and personal clarity.
 
-**Stage:** Preparing for launch
+<strong>Stage:</strong> Preparing for launch
 
 </td>
 <td width="33%" valign="top">
 
-### WorkShield
+<h3>WorkShield</h3>
 
 Workplace documentation, timelines, organized records, and preparedness.
 
-**Stage:** In development
+<strong>Stage:</strong> In development
 
 </td>
 </tr>
@@ -104,13 +98,10 @@ Workplace documentation, timelines, organized records, and preparedness.
 <h3>Guided growth, realistic next steps, and AI-supported progress</h3>
 
 <p>
-<strong>Cadentra</strong> is a guided growth and decision-support app from LumoBridge.
-It helps people move through change with more clarity, structure, and confidence.
+<strong>Cadentra</strong> helps people move through change with more clarity, structure, and confidence.
 </p>
 
 </div>
-
-<br />
 
 <table>
 <tr>
@@ -124,19 +115,19 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 * what matters next
 * what is blocking progress
 * what small action they can take
-* how their confidence and clarity are changing over time
+* how confidence and clarity change over time
 
 </td>
 <td width="55%" valign="top">
 
 ## Core experience
 
-* Guided onboarding to understand goals, focus area, and current needs
-* Personalized dashboard for clarity, progress, and next steps
-* Goal direction support for career, confidence, personal growth, and life transitions
-* Weekly review flow to help users reflect, adjust, and continue
-* AI coaching support that stays practical and action-focused
-* Progress insights that show patterns, obstacles, and movement over time
+* Guided onboarding
+* Personalized progress dashboard
+* Career, confidence, and goal direction support
+* Weekly review flow
+* Practical AI coaching
+* Pattern, obstacle, and progress insights
 * Calm interface designed to reduce overwhelm
 
 </td>
@@ -147,39 +138,30 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/adentraOnboading.png" alt="Cadentra dashboard preview" width="600" />
-<br /><br />
-
-<strong>Start with direction</strong>
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="760" />
 
 <br />
 
-<sub>Choose a path, set one goal, and understand the next step.</sub>
-
-</td>
-
-<td width="65%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="500" />
-
-<br /><br />
-
-<strong>Track clarity, goals, and next steps</strong>
-
-<br />
-
-<sub>Dashboard view with goals, check-ins, obstacles, progress, and AI-supported guidance.</sub>
-
-</td>
-</tr>
-</table>
+<sub><strong>Cadentra dashboard:</strong> goals, check-ins, obstacles, clarity growth, weekly rhythm, and AI-supported next steps.</sub>
 
 </div>
 
-<sub>Dashboard view with goals, check-ins, obstacles, progress, and AI-supported guidance.</sub>
+<br />
+
+<div align="center">
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="320" />
+
+</td>
+<td width="58%" valign="middle">
+
+<h3>Start with direction</h3>
+
+Cadentra begins by helping users choose a path, set one realistic goal, and understand how the app supports progress through clarity, planning, action, reflection, and adjustment.
 
 </td>
 </tr>
@@ -209,15 +191,9 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 <strong>ThriveMap</strong> helps users build a more consistent reflection practice through structured sessions, progress tracking, and personal review.
 </p>
 
-</div>
-
-<br />
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="310" />
 
-<br /><br />
+<br />
 
 <sub><strong>ThriveMap preview:</strong> guided reflection, progress tracking, and structured personal review.</sub>
 
@@ -275,8 +251,6 @@ Cadentra combines goal planning, guided review, reflection, and practical AI coa
 
 </div>
 
-<br />
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -310,19 +284,17 @@ The goal is to support people who need calm, organized, and practical documentat
 
 Strong products should be shaped by **real people, real needs, and real feedback**.
 
-LumoBridge is currently collecting input for future product decisions:
-
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
 
-### Cadentra
+<h3>Cadentra</h3>
 
 Guided growth, goals, confidence, weekly review, and agentic AI coaching.
 
-<br />
+<br /><br />
 
 <a href="https://www.cognitoforms.com/VeyDamneun/CadentraProductResearchSurvey">
   <img src="https://img.shields.io/badge/Take%20Survey-Cadentra-F59E0B?style=for-the-badge&labelColor=111827" alt="Take Cadentra product research survey" />
@@ -332,11 +304,11 @@ Guided growth, goals, confidence, weekly review, and agentic AI coaching.
 
 <td align="center" width="33%" valign="top">
 
-### WorkShield App
+<h3>WorkShield App</h3>
 
 Workplace documentation, records, timelines, and preparation.
 
-<br />
+<br /><br />
 
 <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
   <img src="https://img.shields.io/badge/Take%20Survey-WorkShield-10B981?style=for-the-badge&labelColor=111827" alt="Take WorkShield customer research survey" />
@@ -346,11 +318,11 @@ Workplace documentation, records, timelines, and preparation.
 
 <td align="center" width="33%" valign="top">
 
-### Private Community
+<h3>Private Community</h3>
 
 Exploring a safer space for workplace support and documentation needs.
 
-<br />
+<br /><br />
 
 <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
   <img src="https://img.shields.io/badge/Share%20Feedback-Community-6366F1?style=for-the-badge&labelColor=111827" alt="Share feedback for WorkShield private community" />
@@ -368,7 +340,7 @@ Exploring a safer space for workplace support and documentation needs.
 
 <div align="center">
 
-### Product and development
+<h3>Product and development</h3>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -378,7 +350,7 @@ Exploring a safer space for workplace support and documentation needs.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Strategy and systems
+<h3>Strategy and systems</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Product%20Strategy-F59E0B?style=for-the-badge&labelColor=111827" alt="Product Strategy" />
@@ -432,6 +404,6 @@ I welcome connection with people and organizations working in:
 
 <br />
 
-### Building digital tools for clarity, progress, and protection.
+<h3>Building digital tools for clarity, progress, and protection.</h3>
 
 </div>
