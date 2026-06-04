@@ -2,11 +2,11 @@
 
 <img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="220" />
 
-
-
 ### Founder of LumoBridge · Product Builder · AI & Analytics Strategist
 
 </div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=1000&lines=Building+digital+tools+for+clarity%2C+progress%2C+and+protection.;Creating+AI-powered+apps%2C+dashboards%2C+and+decision-support+systems.;Designing+products+that+solve+real+human+problems.;Founder+of+LumoBridge+%E2%80%94+a+growing+product+ecosystem." alt="Animated introduction" />
 
@@ -41,11 +41,11 @@ I am the founder of **LumoBridge**, a growing digital product company focused on
 
 I build products that help people and organizations:
 
-- organize important information
-- make clearer decisions
-- follow structured progress
-- document what matters
-- use AI in ways that feel useful, responsible, and grounded
+* organize important information
+* make clearer decisions
+* follow structured progress
+* document what matters
+* use AI in ways that feel useful, responsible, and grounded
 
 My work sits at the intersection of:
 
@@ -55,13 +55,15 @@ I am especially interested in creating products that are not only technically ca
 
 ---
 
+## LumoBridge product ecosystem
+
 **LumoBridge** is a digital product ecosystem focused on clarity, progress, documentation, and decision support.
 
-| Product | What it helps with | Stage |
-|---|---|---|
-| **ThriveMap** | Guided reflection, structured practice, and personal clarity | Preparing for public launch |
-| **Cadentra** | Goals, career direction, confidence, weekly review, and agentic AI coaching | Product research |
-| **WorkShield** | Workplace documentation, timelines, organized records, and preparedness | In development |
+| Product        | What it helps with                                                          | Stage                |
+| -------------- | --------------------------------------------------------------------------- | -------------------- |
+| **Cadentra**   | Goals, career direction, confidence, weekly review, and agentic AI coaching | Preparing for launch |
+| **ThriveMap**  | Guided reflection, structured practice, and personal clarity                | Product development  |
+| **WorkShield** | Workplace documentation, timelines, organized records, and preparedness     | In development       |
 
 <div align="center">
 
@@ -75,27 +77,35 @@ I am especially interested in creating products that are not only technically ca
 
 ## Featured product
 
-### ThriveMap
+### Cadentra
 
-**ThriveMap** is the first public product in the LumoBridge ecosystem.
+**Cadentra** is a guided growth and decision-support app from LumoBridge.
 
-It is a guided reflection app designed to help users build a more consistent practice for **clarity, steadiness, and intentional progress**.
+It is designed to help people move through change with more clarity, structure, and confidence. Cadentra combines goal planning, weekly review, guided reflection, and agentic AI coaching to help users understand where they are, what matters next, and how to take realistic action.
 
 #### Core experience
 
-- **Guided 5-step sessions: Ground, Visualize, Rehearse, Write, and Anchor**
-- **Home dashboard with cycle progress and daily focus**
-- **70-day journey across 10 weekly cycles**
-- **Cycle dashboard with calendar, domain activity, and weekly insights**
-- **Journey Summary with patterns, growth trend, domain mix, and next steps**
-- **Continuing reflection content after the foundation**
-_ **Integration Mode after completion**
-- **Saved reflection history**
-- **PDF, CSV, and custom export options**
+* Guided onboarding to understand the user’s goals, focus area, and current needs
+* Personalized dashboard for clarity, progress, and next steps
+* Goal direction support for career, confidence, personal growth, and life transitions
+* Weekly review flow to help users reflect, adjust, and continue
+* AI coaching support designed to stay practical, grounded, and action-focused
+* Progress insights that help users see patterns, obstacles, and movement over time
+* Clean interface designed for calm focus, not overwhelm
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="420" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="720" />
+
+</div>
 
 <p>
-  <a href="https://github.com/LumoBridge/ThriveMap-Public-">
-    <img src="https://img.shields.io/badge/Open-ThriveMap%20Public%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Open ThriveMap public repository" />
+  <a href="https://github.com/LumoBridge/cadentra">
+    <img src="https://img.shields.io/badge/Open-Cadentra%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Open Cadentra repository" />
   </a>
 </p>
 
@@ -112,8 +122,8 @@ LumoBridge is currently collecting input for future product decisions:
 <table>
 <tr>
 <td align="center" width="33%">
-  
-### Cadentra  
+
+### Cadentra
 
 Guided growth, goals, confidence, weekly review, and agentic AI coaching.
 
@@ -127,7 +137,7 @@ Guided growth, goals, confidence, weekly review, and agentic AI coaching.
 
 <td align="center" width="33%">
 
-### WorkShield App  
+### WorkShield App
 
 Workplace documentation, records, timelines, and preparation.
 
@@ -141,7 +151,7 @@ Workplace documentation, records, timelines, and preparation.
 
 <td align="center" width="33%">
 
-### Private Community  
+### Private Community
 
 Exploring a safer space for workplace support and documentation needs.
 
@@ -189,13 +199,13 @@ Exploring a safer space for workplace support and documentation needs.
 
 ## Product principles
 
-| Principle | Meaning |
-|---|---|
-| **Clarity before complexity** | Make products understandable and useful |
-| **Real needs before assumptions** | Let feedback guide decisions |
-| **Privacy deserves care** | Handle sensitive information responsibly |
-| **Useful before flashy** | Build for value, not noise |
-| **Structure supports progress** | Help people know what to do next |
+| Principle                          | Meaning                                        |
+| ---------------------------------- | ---------------------------------------------- |
+| **Clarity before complexity**      | Make products understandable and useful        |
+| **Real needs before assumptions**  | Let feedback guide decisions                   |
+| **Privacy deserves care**          | Handle sensitive information responsibly       |
+| **Useful before flashy**           | Build for value, not noise                     |
+| **Structure supports progress**    | Help people know what to do next               |
 | **Technology should serve people** | Systems should reduce confusion, not add to it |
 
 ---
@@ -204,12 +214,12 @@ Exploring a safer space for workplace support and documentation needs.
 
 I welcome connection with people and organizations working in:
 
-- practical AI applications
-- thoughtful product development
-- analytics and decision-support systems
-- ethical, human-centered technology
-- research-informed digital products
-- collaboration, partnerships, and aligned opportunities
+* practical AI applications
+* thoughtful product development
+* analytics and decision-support systems
+* ethical, human-centered technology
+* research-informed digital products
+* collaboration, partnerships, and aligned opportunities
 
 <div align="center">
 
