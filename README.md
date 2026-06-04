@@ -62,7 +62,7 @@ I am especially interested in creating products that are not only technically ca
 | Product        | What it helps with                                                          | Stage                |
 | -------------- | --------------------------------------------------------------------------- | -------------------- |
 | **Cadentra**   | Goals, career direction, confidence, weekly review, and agentic AI coaching | Preparing for launch |
-| **ThriveMap**  | Guided reflection, structured practice, and personal clarity                | Product development  |
+| **ThriveMap**  | Guided reflection, structured practice, and personal clarity                | Preparing for launch  |
 | **WorkShield** | Workplace documentation, timelines, organized records, and preparedness     | In development       |
 
 <div align="center">
