@@ -1,14 +1,8 @@
-please edit the formate especially with images. it to generic. 
-
 <div align="center">
 
-<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="220" />
+<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="210" />
 
-### Founder of LumoBridge · Product Builder · AI & Analytics Strategist
-
-</div>
-
-<div align="center">
+<h3>Founder of LumoBridge · Product Builder · AI & Analytics Strategist</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=1000&lines=Building+digital+tools+for+clarity%2C+progress%2C+and+protection.;Creating+AI-powered+apps%2C+dashboards%2C+and+decision-support+systems.;Designing+products+that+solve+real+human+problems.;Founder+of+LumoBridge+%E2%80%94+a+growing+product+ecosystem." alt="Animated introduction" />
 
@@ -61,11 +55,37 @@ I am especially interested in creating products that are not only technically ca
 
 **LumoBridge** is a digital product ecosystem focused on clarity, progress, documentation, and decision support.
 
-| Product        | What it helps with                                                          | Stage                |
-| -------------- | --------------------------------------------------------------------------- | -------------------- |
-| **Cadentra**   | Goals, career direction, confidence, weekly review, and agentic AI coaching | Preparing for launch |
-| **ThriveMap**  | Guided reflection, structured practice, and personal clarity                | Preparing for launch  |
-| **WorkShield** | Workplace documentation, timelines, organized records, and preparedness     | In development       |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Cadentra
+
+Goals, career direction, confidence, weekly review, and agentic AI coaching.
+
+**Stage:** Preparing for launch
+
+</td>
+<td width="33%" valign="top">
+
+### ThriveMap
+
+Guided reflection, structured practice, and personal clarity.
+
+**Stage:** Preparing for launch
+
+</td>
+<td width="33%" valign="top">
+
+### WorkShield
+
+Workplace documentation, timelines, organized records, and preparedness.
+
+**Stage:** In development
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -77,39 +97,190 @@ I am especially interested in creating products that are not only technically ca
 
 ---
 
-## Featured product
-
-### Cadentra
-
-**Cadentra** is a guided growth and decision-support app from LumoBridge.
-
-It is designed to help people move through change with more clarity, structure, and confidence. Cadentra combines goal planning, weekly review, guided reflection, and agentic AI coaching to help users understand where they are, what matters next, and how to take realistic action.
-
-#### Core experience
-
-* Guided onboarding to understand the user’s goals, focus area, and current needs
-* Personalized dashboard for clarity, progress, and next steps
-* Goal direction support for career, confidence, personal growth, and life transitions
-* Weekly review flow to help users reflect, adjust, and continue
-* AI coaching support designed to stay practical, grounded, and action-focused
-* Progress insights that help users see patterns, obstacles, and movement over time
-* Clean interface designed for calm focus, not overwhelm
+# Featured product: Cadentra
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="420" />
+<h3>Guided growth, realistic next steps, and AI-supported progress</h3>
 
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="720" />
+<p>
+<strong>Cadentra</strong> is a guided growth and decision-support app from LumoBridge.
+It helps people move through change with more clarity, structure, and confidence.
+</p>
 
 </div>
 
+<br />
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="Cadentra product preview animation" width="900" />
+
+<br />
+
+<sub><strong>Product experience preview:</strong> guided clarity, planning, action, reflection, and progress support.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+## What Cadentra helps with
+
+Cadentra combines goal planning, guided review, reflection, and practical AI coaching to help users understand:
+
+* where they are now
+* what matters next
+* what is blocking progress
+* what small action they can take
+* how their confidence and clarity are changing over time
+
+</td>
+<td width="55%" valign="top">
+
+## Core experience
+
+* Guided onboarding to understand goals, focus area, and current needs
+* Personalized dashboard for clarity, progress, and next steps
+* Goal direction support for career, confidence, personal growth, and life transitions
+* Weekly review flow to help users reflect, adjust, and continue
+* AI coaching support that stays practical and action-focused
+* Progress insights that show patterns, obstacles, and movement over time
+* Calm interface designed to reduce overwhelm
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<table>
+<tr>
+<td width="38%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraOnboading.png" alt="Cadentra onboarding screen" width="280" />
+
+<br /><br />
+
+<strong>Start with direction</strong>
+
+<br />
+
+<sub>Onboarding helps users choose a path, set one goal, and understand how Cadentra supports progress.</sub>
+
+</td>
+<td width="62%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="650" />
+
+<br /><br />
+
+<strong>Track clarity, goals, and next steps</strong>
+
+<br />
+
+<sub>The dashboard brings together progress, check-ins, obstacles, weekly rhythm, and AI-supported guidance.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/LumoBridge/cadentra">
+  <img src="https://img.shields.io/badge/Open-Cadentra%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Open Cadentra repository" />
+</a>
+
+</div>
+
+---
+
+# ThriveMap
+
+<div align="center">
+
+<h3>Guided reflection for clarity, steadiness, and intentional progress</h3>
+
 <p>
-  <a href="https://github.com/LumoBridge/cadentra">
-    <img src="https://img.shields.io/badge/Open-Cadentra%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Open Cadentra repository" />
-  </a>
+<strong>ThriveMap</strong> helps users build a more consistent reflection practice through structured sessions, progress tracking, and personal review.
 </p>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="900" />
+
+<br />
+
+<sub><strong>ThriveMap preview:</strong> a visual look at the guided reflection experience.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ThriveMap core experience
+
+* Guided reflection sessions
+* Daily focus and cycle progress
+* Reflection history
+* Journey summary
+* Pattern and growth insights
+* Export options for personal review
+
+</td>
+<td width="50%" valign="top">
+
+## Designed for
+
+* building a regular reflection rhythm
+* organizing personal insight
+* noticing patterns over time
+* supporting steady, intentional growth
+* reviewing progress with more structure
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/LumoBridge/ThriveMap-Public-">
+  <img src="https://img.shields.io/badge/Open-ThriveMap%20Public%20Repo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open ThriveMap public repository" />
+</a>
+
+</div>
 
 ---
 
@@ -123,7 +294,7 @@ LumoBridge is currently collecting input for future product decisions:
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### Cadentra
 
@@ -137,7 +308,7 @@ Guided growth, goals, confidence, weekly review, and agentic AI coaching.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### WorkShield App
 
@@ -151,7 +322,7 @@ Workplace documentation, records, timelines, and preparation.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### Private Community
 
@@ -242,6 +413,3 @@ I welcome connection with people and organizations working in:
 ### Building digital tools for clarity, progress, and protection.
 
 </div>
-
-
-paths gif in the ThriveMap section https://github.com/Vey27/Vey27/blob/main/LumoBridge_videoHeroWeb-2.gif
