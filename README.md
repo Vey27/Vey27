@@ -55,7 +55,7 @@ I am especially interested in products that are not only technically capable, bu
 <strong>Three connected product domains:</strong> reflection, growth, and workplace documentation.
 </p>
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/threedomains.png" alt="LumoBridge three product domains: ThriveMap, Cadentra, and WorkShield" width="820" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/3domains.png" alt="LumoBridge three product domains: ThriveMap, Cadentra, and WorkShield" width="820" />
 
 <br />
 
