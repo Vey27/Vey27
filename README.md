@@ -81,9 +81,14 @@ I am especially interested in products that are not only technically capable, bu
 <tr>
 <td width="58%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/thriveMapprod.png" alt="ThriveMap product screen preview" width="500" />
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/ThriveMap7.png" alt="ThriveMap product overview preview" width="500" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/thriveMap8.png" alt="ThriveMap guided reflection preview" width="500" />
 
 </td>
+
 <td width="42%" align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="300" />
