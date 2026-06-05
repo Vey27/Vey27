@@ -100,7 +100,119 @@ I am especially interested in products that are not only technically capable, bu
 <table>
 <tr>
 <td width="50%" valign="top">
+<br />
 
+<div align="center">
+
+<h3>Practice Insights</h3>
+
+<p>
+A signature ThriveMap reflection path that guides each session from grounding to one clear takeaway.
+</p>
+
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+
+<h3>Ground</h3>
+
+<sub>Start with calm focus.</sub>
+
+</td>
+
+<td width="20%" align="center" valign="top">
+
+<h3>Visualize</h3>
+
+<sub>Picture the direction.</sub>
+
+</td>
+
+<td width="20%" align="center" valign="top">
+
+<h3>Rehearse</h3>
+
+<sub>Practice the next action.</sub>
+
+</td>
+
+<td width="20%" align="center" valign="top">
+
+<h3>Write</h3>
+
+<sub>Capture the insight.</sub>
+
+</td>
+
+<td width="20%" align="center" valign="top">
+
+<h3>Anchor</h3>
+
+<sub>Close with one takeaway.</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table>
+<tr>
+<td align="center">
+
+<strong>Ground</strong>
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+<strong>Visualize</strong>
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+<strong>Rehearse</strong>
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+<strong>Write</strong>
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+<strong>Anchor</strong>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<sub><strong>Reflection Path:</strong> a simple five-step framework for clarity, practice, and progress.</sub>
+
+</div>
+
+<br />
 ## Core experience
 
 * Guided reflection sessions
