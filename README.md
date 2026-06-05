@@ -213,6 +213,7 @@ A signature ThriveMap reflection path that guides each session from grounding to
 </div>
 
 <br />
+
 ## Core experience
 
 * Guided reflection sessions
