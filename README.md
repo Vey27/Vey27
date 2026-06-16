@@ -63,30 +63,26 @@ I am especially interested in products that are not only technically capable, bu
 
 # Product 1: ThriveMap
 
-<table>
-<tr>
-<td width="58%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/ThriveMap7.png" alt="ThriveMap product overview preview" width="500" />
+<a href="https://youtu.be/m-n19uNn4aU">
+  <img 
+    src="https://img.youtube.com/vi/m-n19uNn4aU/maxresdefault.jpg" 
+    alt="Watch the ThriveMap overview video on YouTube" 
+    width="420" 
+  />
+</a>
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/thriveMap8.png" alt="ThriveMap guided reflection preview" width="500" />
+<a href="https://youtu.be/m-n19uNn4aU">
+  <img 
+    src="https://img.shields.io/badge/Watch-ThriveMap%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+    alt="Watch ThriveMap video on YouTube" 
+  />
+</a>
 
 </td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/LumoBridge_videoHeroWeb-2.gif" alt="ThriveMap product preview animation" width="300" />
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<br />
 
 <div align="center">
 
