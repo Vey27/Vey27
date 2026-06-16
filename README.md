@@ -2,8 +2,6 @@
 
 <img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge Logo" width="180" />
 
-<h1>LumoBridge</h1>
-
 <h3>Building digital tools for clarity, progress, and protection</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=950&lines=Practical+apps+for+reflection%2C+planning%2C+and+preparedness.;AI-supported+tools+that+help+people+move+forward+with+structure.;Human-centered+products+for+real-life+decisions.;Founder+of+LumoBridge+%E2%80%94+a+growing+product+ecosystem." alt="Animated LumoBridge introduction" />
