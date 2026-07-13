@@ -177,46 +177,7 @@ A guided five-step reflection path designed to support focus, insight, and actio
 
 ---
 
-# Cadentra
 
-<div align="center">
-
-<h3>Guided growth, realistic next steps, and AI-supported progress</h3>
-
-<p>
-<strong>Cadentra</strong> helps people move through change with more clarity, structure, and confidence.
-</p>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vey27/Vey27/main/cadentraUpscale.png" alt="Cadentra dashboard preview" width="950" />
-
-<br />
-
-<sub><strong>Cadentra dashboard:</strong> goals, check-ins, obstacles, clarity growth, weekly rhythm, and AI-supported next steps.</sub>
-
-</div>
-
-<br />
-
-
-
----
-
-## Product principles
-
-| Principle                         | Meaning                                           |
-| --------------------------------- | ------------------------------------------------- |
-| **Clear before clever**           | Make products understandable and useful           |
-| **Real needs before assumptions** | Let feedback guide decisions                      |
-| **Privacy before exposure**       | Handle sensitive information with care            |
-| **Useful before flashy**          | Build for value, not noise                        |
-| **Structure before complexity**   | Help people know what to do next                  |
-| **Human before system**           | Technology should reduce confusion, not add to it |
-
----
 
 ## Connect
 
