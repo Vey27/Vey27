@@ -43,15 +43,7 @@ My work connects:
 
 ## Product ecosystem
 
-LumoBridge is building a family of practical tools for reflection, planning, growth, and preparedness.
 
-<div align="center">
-
-<a href="https://github.com/LumoBridge">
-  <img src="https://img.shields.io/badge/View-LumoBridge%20Organization-111827?style=for-the-badge&logo=github&logoColor=white" alt="View LumoBridge GitHub organization" />
-</a>
-
-</div>
 
 ---
 
