@@ -59,7 +59,7 @@ LumoBridge is building a family of practical tools for reflection, planning, gro
 
 <div align="center">
 
-<a href="https://github.com/LumoBridge/ThriveMap-Public-">
+<a href="[https://github.com/LumoBridge/ThriveMap-Public-](https://lumobridge.com)">
   <img src="https://img.shields.io/badge/Open-ThriveMap%20Public%20Repo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open ThriveMap public repository" />
 </a>
 
