@@ -49,18 +49,6 @@ My work connects:
 
 
 
-<div align="center">
-
-<a href="[https://github.com/LumoBridge/ThriveMap-Public-](https://lumobridge.com)">
-  <img src="https://img.shields.io/badge/Open-ThriveMap%20Public%20Repo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open ThriveMap public repository" />
-</a>
-
-</div>
-
----
-
-
-
 ## Connect
 
 I welcome connection with people and organizations working in practical AI, thoughtful product development, analytics, decision-support systems, and human-centered technology.
