@@ -55,32 +55,7 @@ LumoBridge is building a family of practical tools for reflection, planning, gro
 
 ---
 
-# ThriveMap
 
-
-### Core features
-
-* Guided reflection sessions
-* Daily focus and cycle progress
-* Reflection history
-* Journey summary
-* Pattern and growth insights
-* Export options for personal review
-
-</td>
-<td width="50%" valign="top">
-
-### Designed for
-
-* building a regular reflection rhythm
-* organizing personal insight
-* noticing patterns over time
-* supporting steady growth
-* reviewing progress with structure
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
