@@ -43,7 +43,13 @@ My work connects:
 
 ## Product ecosystem
 
+| Product | What it helps with | Status |
+| :-- | :-- | :-- |
+| **[ThriveMap](https://lumobridge.com/thrivemap.html)** | A guided 70 day reflection practice that helps you notice patterns and choose one practical next step. | 🟡 Coming soon |
+| **[Cadentra](https://lumobridge.com/cadentra.html)** | Guided planning that turns a goal or life change into a clear path and practical next steps. | 🔵 In development |
+| **[Vertify](https://lumobridge.com/vertify.html)** | A private record of your work, so you feel prepared and in control long before you ever need it. | 🔵 In development |
 
+*Also in early research: MoneyRunway, CareVault, and LabelWise.*
 
 ---
 
