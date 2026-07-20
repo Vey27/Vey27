@@ -16,12 +16,15 @@
 <a href="https://lumobridge.com">
   <img src="https://img.shields.io/badge/Website-LumoBridge.com-0F172A?style=for-the-badge" alt="Visit LumoBridge" />
 </a>
-<a href="https://lumoconnect.com">
-  <img src="https://img.shields.io/badge/Explore-LumoConnect-6366F1?style=for-the-badge" alt="Explore LumoConnect" />
+
+<a href="https://lumoconnect.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Explore-LumoConnect-6366F1?style=for-the-badge" alt="Explore LumoConnect in a new tab" />
 </a>
+
 <a href="https://github.com/LumoBridge">
   <img src="https://img.shields.io/badge/GitHub-LumoBridge-111827?style=for-the-badge&logo=github&logoColor=white" alt="View LumoBridge on GitHub" />
 </a>
+
 <a href="mailto:hello@lumobridge.com">
   <img src="https://img.shields.io/badge/Contact-hello%40lumobridge.com-10B981?style=for-the-badge" alt="Contact LumoBridge" />
 </a>
@@ -66,8 +69,8 @@ LumoConnect helps people search more than 1,800 source-checked government, nonpr
 
 <br />
 
-<a href="https://lumoconnect.com">
-  <img src="https://img.shields.io/badge/Search%20Community%20Resources-Visit%20LumoConnect-6366F1?style=for-the-badge" alt="Visit LumoConnect" />
+<a href="https://lumoconnect.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Search%20Community%20Resources-Visit%20LumoConnect-6366F1?style=for-the-badge" alt="Visit LumoConnect in a new tab" />
 </a>
 
 </div>
@@ -89,7 +92,7 @@ Listings include public source information, service details, eligibility guidanc
 
 | Product | Purpose | Status |
 | :-- | :-- | :-- |
-| **[LumoConnect](https://lumoconnect.com)** | A searchable directory of source-checked community resources across the United States. | 🟢 Live |
+| <a href="https://lumoconnect.com" target="_blank" rel="noopener noreferrer"><strong>LumoConnect</strong></a> | A searchable directory of source-checked community resources across the United States. | 🟢 Live |
 | **[ThriveMap](https://lumobridge.com/thrivemap.html)** | A guided 70-day reflection practice that helps people notice patterns and choose practical next steps. | 🟡 Preparing for launch |
 | **[Cadentra](https://lumobridge.com/cadentra.html)** | Guided planning that turns a goal or life change into a clear path and manageable next steps. | 🔵 In development |
 | **[Vertify](https://lumobridge.com/vertify.html)** | A private workplace record that helps people stay prepared, informed, and in control. | 🔵 In development |
