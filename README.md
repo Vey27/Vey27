@@ -30,7 +30,7 @@
 
 ---
 
-## New from LumoBridge: Eat What?
+## New from LumoBridge: Eat What?, now on the web
 
 <table>
   <tr>
@@ -55,10 +55,10 @@
 
 - Reads the label right on your device. Your photos never leave it.
 - Explains what each ingredient is and why it's used.
-- Coming soon for iPhone, Android, and the web.
+- Available now on the web. The iPhone and Android versions are in progress.
 
-<a href="https://lumobridge.com/eat-what">
-  <img src="https://img.shields.io/badge/Coming%20soon-Get%20launch%20updates-10B981?style=for-the-badge&labelColor=0F172A" alt="Get Eat What? launch updates" />
+<a href="https://eatwhat.lumobridge.com">
+  <img src="https://img.shields.io/badge/Available%20now-Open%20Eat%20What%3F-10B981?style=for-the-badge&labelColor=0F172A" alt="Open Eat What? in your browser" />
 </a>
 
 ---
@@ -67,8 +67,8 @@
 
 | | Product | What it does | Status |
 | :-: | :-- | :-- | :-- |
-| <img src="https://lumobridge.com/assets/thrivemap-logo.png" width="36" alt="" /> | **[ThriveMap](https://lumobridge.com/thrivemap)** | A 70-day practice of short daily sessions that helps you notice patterns and choose one practical next step. | 🟢 Available on the [App Store](https://apps.apple.com/app/thrivemap/id6762503722), [Google Play](https://play.google.com/store/apps/details?id=com.lumobridge.thrivemap), and the web |
-| <img src="https://lumobridge.com/assets/products/eat-what-icon.png" width="36" alt="" /> | **[Eat What?](https://lumobridge.com/eat-what)** | Photograph an ingredient list to see what each name means, with sources. | 🟡 Coming soon |
+| <img src="https://lumobridge.com/assets/thrivemap-logo.png" width="36" alt="" /> | **[ThriveMap](https://lumobridge.com/thrivemap)** | A 70-day practice of short daily sessions that helps you notice patterns and choose one practical next step. | 🟢 Available on the [App Store](https://apps.apple.com/app/thrivemap/id6762503722) and [Google Play](https://play.google.com/store/apps/details?id=com.lumobridge.thrivemap) |
+| <img src="https://lumobridge.com/assets/products/eat-what-icon.png" width="36" alt="" /> | **[Eat What?](https://lumobridge.com/eat-what)** | Photograph an ingredient list to see what each name means, with sources. | 🟢 Available [on the web](https://eatwhat.lumobridge.com) |
 | <img src="https://lumobridge.com/assets/cadentra-mark.png" width="36" alt="" /> | **[Cadentra](https://lumobridge.com/cadentra)** | Pick one hard goal in career, confidence, or leadership, and get one next step at a time. | 🟡 Coming soon |
 | <img src="https://lumobridge.com/assets/business-analytics-logo-transparent.png" width="36" alt="" /> | **[Business Analytics Pro](https://lumobridge.com/business-analytics-pro)** | Clean a messy sales spreadsheet, compare months, products, and locations, and download an editable PowerPoint. | 🔵 Free public pilot |
 | 🧭 | **<a href="https://lumoconnect.com" target="_blank" rel="noopener noreferrer">LumoConnect</a>** | Search more than 1,900 source-checked government, nonprofit, and community resources across all 50 states. | 🟢 Live |
