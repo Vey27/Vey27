@@ -7,7 +7,7 @@
 <p><strong>Digital tools for clarity, progress, connection, and protection.</strong></p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Human-centered+tools+for+real-life+needs.;Photograph+a+food+label.+See+what+each+word+means.;Reflection%2C+planning%2C+analytics%2C+and+community+resources.;Building+the+LumoBridge+product+family."
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Human+centered+tools+for+real+life+needs.;Photograph+a+food+label.+See+what+each+word+means.;Reflection%2C+planning%2C+analytics%2C+and+community+resources.;Building+the+LumoBridge+product+family."
   alt="Animated introduction to LumoBridge"
 />
 
@@ -67,11 +67,11 @@
 
 | | Product | What it does | Status |
 | :-: | :-- | :-- | :-- |
-| <img src="https://lumobridge.com/assets/thrivemap-logo.png" width="36" alt="" /> | **[ThriveMap](https://lumobridge.com/thrivemap)** | A 70-day practice of short daily sessions that helps you notice patterns and choose one practical next step. | 🟢 Available on the [App Store](https://apps.apple.com/app/thrivemap/id6762503722) and [Google Play](https://play.google.com/store/apps/details?id=com.lumobridge.thrivemap) |
+| <img src="https://lumobridge.com/assets/thrivemap-logo.png" width="36" alt="" /> | **[ThriveMap](https://lumobridge.com/thrivemap)** | A 70 day practice of short daily sessions that helps you notice patterns and choose one practical next step. | 🟢 Available on the [App Store](https://apps.apple.com/app/thrivemap/id6762503722) and [Google Play](https://play.google.com/store/apps/details?id=com.lumobridge.thrivemap) |
 | <img src="https://lumobridge.com/assets/products/eat-what-icon.png" width="36" alt="" /> | **[Eat What?](https://lumobridge.com/eat-what)** | Photograph an ingredient list to see what each name means, with sources. | 🟢 Available [on the web](https://eatwhat.lumobridge.com) |
 | <img src="https://lumobridge.com/assets/cadentra-mark.png" width="36" alt="" /> | **[Cadentra](https://lumobridge.com/cadentra)** | Pick one hard goal in career, confidence, or leadership, and get one next step at a time. | 🟡 Coming soon |
 | <img src="https://lumobridge.com/assets/business-analytics-logo-transparent.png" width="36" alt="" /> | **[Business Analytics Pro](https://lumobridge.com/business-analytics-pro)** | Clean a messy sales spreadsheet, compare months, products, and locations, and download an editable PowerPoint. | 🔵 Free public pilot |
-| 🧭 | **<a href="https://lumoconnect.com" target="_blank" rel="noopener noreferrer">LumoConnect</a>** | Search more than 1,900 source-checked government, nonprofit, and community resources across all 50 states. | 🟢 Live |
+| 🧭 | **<a href="https://lumoconnect.com" target="_blank" rel="noopener noreferrer">LumoConnect</a>** | Search more than 1,900 source checked government, nonprofit, and community resources across all 50 states. | 🟢 Live |
 | 🔍 | **[Business Insights](https://lumobridge.com/business-insights)** | Business intelligence and decision support, led by Vey Damneun, MSBA. | ⚪ Service in preparation |
 
 ---
@@ -94,12 +94,12 @@
 <img src="https://img.shields.io/badge/Product%20strategy-F59E0B?style=flat-square&labelColor=0F172A" alt="Product strategy" />
 <img src="https://img.shields.io/badge/Business%20analytics-10B981?style=flat-square&labelColor=0F172A" alt="Business analytics" />
 <img src="https://img.shields.io/badge/Responsible%20AI-6366F1?style=flat-square&labelColor=0F172A" alt="Responsible AI" />
-<img src="https://img.shields.io/badge/Human--centered%20UX-8B5CF6?style=flat-square&labelColor=0F172A" alt="Human-centered UX" />
-<img src="https://img.shields.io/badge/Privacy--aware%20design-0EA5E9?style=flat-square&labelColor=0F172A" alt="Privacy-aware design" />
+<img src="https://img.shields.io/badge/Human%20centered%20UX-8B5CF6?style=flat-square&labelColor=0F172A" alt="Human centered UX" />
+<img src="https://img.shields.io/badge/Privacy%20aware%20design-0EA5E9?style=flat-square&labelColor=0F172A" alt="Privacy aware design" />
 <img src="https://img.shields.io/badge/Accessible%20experiences-EC4899?style=flat-square&labelColor=0F172A" alt="Accessible experiences" />
-<img src="https://img.shields.io/badge/Cross--platform%20apps-14B8A6?style=flat-square&labelColor=0F172A" alt="Cross-platform apps" />
+<img src="https://img.shields.io/badge/Cross%20platform%20apps-14B8A6?style=flat-square&labelColor=0F172A" alt="Cross platform apps" />
 
-I'm the founder of **LumoBridge**, a digital product company building practical tools for real-life needs. My work connects product strategy, business analytics, responsible AI, and user experience, so people can find what they need, decide with more confidence, and take the next step.
+I'm the founder of **LumoBridge**, a digital product company building practical tools for real life needs. My work connects product strategy, business analytics, responsible AI, and user experience, so people can find what they need, decide with more confidence, and take the next step.
 
 <div align="center">
 <br />
